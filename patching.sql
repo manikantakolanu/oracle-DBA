@@ -12,7 +12,7 @@ cd /u01/patch/
 unzip p6880880_190000_Linux-x86-64.zip -d $ORACLE_HOME
 
 cd $ORACLE_HOME/OPatch/
-./optach version
+./opatch version
 
 --prerquisites check
 
