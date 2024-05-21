@@ -1,6 +1,6 @@
 --Check opatch version 
 cd $ORACLE_HOME/OPatch/
-./optach version
+./opatch version
 
 if opatch is not upto date download optach from oraclesupport and replace with existiing
 
