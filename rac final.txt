@@ -269,7 +269,7 @@ add 3 disks
 OCR & Voting DISKS 12gb
 data 40GB
 FRA 12GB
-
+FROM ROOT:
 oracleasm listdisks
 
 fdisk -l
